@@ -25,6 +25,6 @@ gantt
    1º Bimestre ☑️Finalizado:a1, 2025-02-02, 60d
    2º Bimestre ☑️Finalizado:a2, after a1, 60d
    section 2º Semestre
-   3º Bimestre Em Andamento: a3, 2025-08-01. 60d
+   3º Bimestre Em Andamento: a3, 2025-08-01, 60d
    4º Bimestre Em Andamento: a4, after a3,60d
 ```
