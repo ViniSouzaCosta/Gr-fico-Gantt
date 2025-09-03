@@ -33,5 +33,5 @@ gantt
       subgraph Matriz
 A1["C8"]:::branco --> A2["C20"]:::amarelo --> A3["V50"]:::laranja --> A4["v100"]:::vermelho
   end
-class Def branco fill:#fff, stroke:#000, stroke-width:1px;
+classDef branco fill:#fff, stroke:#000, stroke-width:1px;
 ```
